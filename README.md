@@ -1,3 +1,1 @@
-Text for home page
-
-Will add image
+Dynamic text for the ZooCode app's front page
